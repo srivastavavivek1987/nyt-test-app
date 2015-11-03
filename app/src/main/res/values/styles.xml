@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/toolbar</item>
+        <item name="colorPrimaryDark">@color/toolbar_dark</item>
+        <item name="colorAccent">@color/toolbar</item>
+        <item name="android:textCursorDrawable">@drawable/cursor</item>
+    </style>
+
+</resources>
